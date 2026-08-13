@@ -6,7 +6,7 @@
     xmlns:mailappor="http://schemas.microsoft.com/office/mailappversionoverrides/1.0"
     xsi:type="MailApp">
 
-  <Id>c1b2a3d4-5e6f-4a7b-8c9d-0e1f2a3b4c5d</Id>
+    <Id>2a9b3369-006f-4c8b-b688-3bb2fee065cc</Id>
   <Version>1.0.0.0</Version>
   <ProviderName>directFX Solutions</ProviderName>
   <DefaultLocale>en-US</DefaultLocale>
